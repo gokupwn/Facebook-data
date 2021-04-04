@@ -49,4 +49,4 @@ def writer(fileName, outFile):
             with open(outFile, 'a') as of_obj:
                 of_obj.write(json.dumps(formator(line),separators=(',', ': '), indent=4))
 
-#writer(fileName, outFile)
+writer(fileName, outFile)
