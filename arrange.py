@@ -55,4 +55,4 @@ def writer(fileName, outFile):
                 of_obj.write(",")
             of_obj.write("]")
 
-writer(fileName, outFile)
+writer(fileName, outFile) 
