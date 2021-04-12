@@ -11,7 +11,7 @@ print(light_red("""
 # coded by: Hassan Al Achek                                                        # 
 # instagram: @hassanalachek                                                        #
 # twitter: @HassanAlachek                                                          #
-# Thanks:@8km1 (Ebn Khatab) for improvment                                         #
+# Thanks:@8km1 (Ebn Khatab) for improvement                                        #
 """)
 +light_red("""
 #################################################################################### """))
