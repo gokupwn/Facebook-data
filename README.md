@@ -1,4 +1,5 @@
 # Facebook-data
+Is a script to process facebook leaked data from 2019 and transforms the leaked data into organized data.
 ## Note 
 I try my best to transform this data to readable data
 <br>But due to the limitation of my computer, i am unable to code more
